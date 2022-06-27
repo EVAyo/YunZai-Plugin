@@ -12,17 +12,17 @@ yiyi-plugin是Yunzai-Bot的外挂插件，提供第二、三攻略(米游社O丶
 
 在BOT根目录夹打开终端，运行.
 
-```
 // 使用gihub
+```
 git clone https://gitee.com/cv-hunag/yiyi-plugin ./plugins/yiyi-plugin/
 ```
 
-```
 // 使用gitee
+```
 git clone https://github.com/cv-hunag/yiyi-plugin ./plugins/yiyi-plugin/
 ```
 进行安装.
-建议使用上述命令进行安装，以便于后续更新.
+
 #### 免责声明
 1. 功能仅限内部交流与小范围使用，请勿将Yunzai-Bot及yiyi-Plugin用于任何以盈利为目的的场景.
 2. 图片与其他素材均来自于网络，仅供交流学习使用，如有侵权请联系，会立即删除.
