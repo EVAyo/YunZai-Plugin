@@ -1,5 +1,7 @@
 # yiyi-plugin说明
 
+# SBTX，我谢谢你.
+
 yiyi-plugin是Yunzai-Bot的外挂插件，提供第二、三攻略(米游社O丶Ha丶Yo ，米游社流曳).
 
 现附带其他群里已上传过的插件，感谢渔佬与TTTT☀️佬.
