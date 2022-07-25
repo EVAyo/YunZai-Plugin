@@ -1,6 +1,8 @@
 # yiyi-plugin说明
 
-yiyi-plugin是Yunzai-Bot的额外插件，提供第二、三攻略(米游社O丶Ha丶Yo ，米游社流曳).
+yiyi-plugin是Yunzai-Bot的额外插件.
+
+# 现处于废弃状态，我也不知道以后会做成什么，摆烂了.
 
 现附带其他群里已上传过的插件，感谢渔佬与TTTT☀️佬.
 
