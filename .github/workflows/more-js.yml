@@ -1,8 +1,8 @@
 # File: .github/workflows/repo-sync.yml
-name: xianxin-plugin #action名字，随便起 
+name: more-js #action名字，随便起 
 env:
-  ID: xianxin-plugin
-  URL: https://gitee.com/xianxincoder/xianxin-plugin.git
+  ID: more-js
+  URL: https://gitee.com/ying_Sailor_uniform/more-js.git
   REPO: master
 on:
   schedule:

@@ -1,8 +1,8 @@
 # File: .github/workflows/repo-sync.yml
-name: xianxin-plugin #action名字，随便起 
+name: flower-plugin #action名字，随便起 
 env:
-  ID: xianxin-plugin
-  URL: https://gitee.com/xianxincoder/xianxin-plugin.git
+  ID: flower-plugin
+  URL: https://gitee.com/Nwflower/flower-plugin.git
   REPO: master
 on:
   schedule:

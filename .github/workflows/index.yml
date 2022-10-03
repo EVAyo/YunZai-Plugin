@@ -2,7 +2,7 @@
 name: index #action名字，随便起 
 env:
   ID: index
-  URL: https://github.com/HiArcadia/Yunzai-Bot-plugins-index.git
+  URL: https://github.com/yhArcadia/Yunzai-Bot-plugins-index.git
   REPO: main
 on:
   schedule:

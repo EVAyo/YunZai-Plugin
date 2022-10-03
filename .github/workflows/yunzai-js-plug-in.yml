@@ -1,8 +1,8 @@
 # File: .github/workflows/repo-sync.yml
-name: xianxin-plugin #action名字，随便起 
+name: yunzai-js-plug-in #action名字，随便起 
 env:
-  ID: xianxin-plugin
-  URL: https://gitee.com/xianxincoder/xianxin-plugin.git
+  ID: yunzai-js-plug-in
+  URL: https://gitee.com/huangshx2001/yunzai-js-plug-in.git
   REPO: master
 on:
   schedule:

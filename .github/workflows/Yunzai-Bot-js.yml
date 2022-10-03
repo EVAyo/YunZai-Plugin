@@ -1,9 +1,9 @@
 # File: .github/workflows/repo-sync.yml
-name: xianxin-plugin #action名字，随便起 
+name: Yunzai-Bot-js #action名字，随便起 
 env:
-  ID: xianxin-plugin
-  URL: https://gitee.com/xianxincoder/xianxin-plugin.git
-  REPO: master
+  ID: Yunzai-Bot-js
+  URL: https://gitee.com/zhxhx/Yunzai-Bot-js.git
+  REPO: main
 on:
   schedule:
     - cron: '1 0,15 * * *'

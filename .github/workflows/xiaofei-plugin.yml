@@ -1,8 +1,8 @@
 # File: .github/workflows/repo-sync.yml
-name: xianxin-plugin #action名字，随便起 
+name: xiaofei-plugin #action名字，随便起 
 env:
-  ID: xianxin-plugin
-  URL: https://gitee.com/xianxincoder/xianxin-plugin.git
+  ID: xiaofei-plugin
+  URL: https://gitee.com/xfdown/xiaofei-plugin.git
   REPO: master
 on:
   schedule:
